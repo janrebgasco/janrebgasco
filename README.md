@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @janrebgasco
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Android Development 
+- 💞️ I’m looking to collaborate on Web Development or Android Projects
 - 📫 How to reach me janreb.gasco@gmail.com
 
 <!---
