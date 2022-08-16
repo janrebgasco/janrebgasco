@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Development or Android Projects
 - 📫 How to reach me, Email: janreb.gasco@gmail.com
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="janreb-gasco-b1328a1a3" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/janreb-gasco-b1328a1a3?trk=profile-badge">Janreb Gasco</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
               
 
 <!---
